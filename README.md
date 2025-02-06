@@ -7,6 +7,9 @@ This project was built using Unity and C# and is not intended for commercial use
 
 ## Screenshots
 <div style="display:flex;">
+  <img width="300" alt="screenshot_1" src="Images/BlastSC1.png">
+  <img width="300" alt="screenshot_1" src="Images/BlastSC2.png">
+  <img width="304" alt="screenshot_1" src="Images/Blast.gif">
 </div>
 
 ## Features
